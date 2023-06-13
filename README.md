@@ -1,5 +1,5 @@
-## Hi! 
-   I am André Salezze Czerniak
+# Hi! 
+   I'm André Salezze Czerniak :D
 
 <!--
 **salezzeczerniak/salezzeczerniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
